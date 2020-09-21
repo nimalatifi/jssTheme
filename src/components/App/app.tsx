@@ -10,7 +10,7 @@ class App extends React.Component {
     return (
       <React.Fragment>
         <Header />
-        <Button />
+        <Button fontStyle={'italic'} >green</Button>
         <Footer />
       </React.Fragment>
     )
